@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 Pre-final Year B.Tech Student.
+- 👨🏻‍🎓 Final Year B.Tech Student.
 - 💻 Information Technology Major.
 - 🤖 Android Developer.
 - 🌱 I’m currently learning **Android development and Full Stack Development**
